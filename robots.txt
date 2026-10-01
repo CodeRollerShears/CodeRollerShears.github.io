@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://coderollershears.github.io/sitemap.xml
